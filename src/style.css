@@ -55,14 +55,10 @@ h3 {
   justify-content: center;
 }
 .manyletters p {
-  background-color: var(--secondary-color);
   font-size: 18px;
   padding: 20px;
   text-align: center;
   line-height: 28px;
-  margin: 10px 10px;
-  border: 1px solid var(--secondary-color);
-  border-radius: 5px;
 }
 #contactme {
   display: flex;
